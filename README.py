@@ -1,1 +1,1 @@
-Print "salut lumeeeee"
+iata si programul meu facut:)
